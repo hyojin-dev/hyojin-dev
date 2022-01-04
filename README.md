@@ -1,7 +1,7 @@
 
 ### Hi! I'm HyoJin Jang 😀
 <!--
-**wkdgywls30/wkdgywls30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hyojin-dev/hyojin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 <!--⚡<a href="https://github.com/hyojin-dev"> My portfolio</a><br>-->
 
 <br>
-<a href="https://github.com/wkdgywls30?tab=repositories">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wkdgywls30&theme=buefy&layout=compact" />
+<a href="https://github.com/hyojin-dev?tab=repositories">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hyojin-dev&theme=buefy&layout=compact" />
 </a>
