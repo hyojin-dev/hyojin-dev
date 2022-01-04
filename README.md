@@ -1,7 +1,23 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=header)
 
+### Hi there 👋
+
+<!--
+**wkdgywls30/wkdgywls30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h2>Hi! I'm HyoJin Jang 😀</h2>
+Here are some ideas to get you started:
 
-<h2 align="center">👇 My Link 👇 </h2>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<!--⚡<a href="https://www.notion.so/1e69938b79184e3498bb9437ae3eada0"> My portfolio</a><br>-->
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=footer)
+<br>
+<a href="https://github.com/wkdgywls30?tab=repositories">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kkyu8925&theme=buefy&layout=compact" />
+</a>
