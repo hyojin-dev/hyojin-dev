@@ -1,9 +1,8 @@
 
-### Hi there 👋
-
+### Hi! I'm HyoJin Jang 😀
 <!--
 **wkdgywls30/wkdgywls30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h2>Hi! I'm HyoJin Jang 😀</h2>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--⚡<a href="https://www.notion.so/1e69938b79184e3498bb9437ae3eada0"> My portfolio</a><br>-->
+<!--⚡<a href="https://github.com/hyojin-dev"> My portfolio</a><br>-->
 
 <br>
 <a href="https://github.com/wkdgywls30?tab=repositories">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kkyu8925&theme=buefy&layout=compact" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wkdgywls30&theme=buefy&layout=compact" />
 </a>
